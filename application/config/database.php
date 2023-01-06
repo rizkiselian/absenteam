@@ -9,7 +9,7 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'absensi_jos',
+	'database' => 'db_absen',
 	///'database' => 'absensi_test',
 	
 	// 'hostname' => 'localhost',
@@ -38,7 +38,7 @@ $db['kepegawaian'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'kepegawaian',
+	'database' => 'db_kepegawaian',
 	///'database' => 'absensi_test',
 	
 	// 'hostname' => 'localhost',
