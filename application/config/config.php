@@ -25,7 +25,7 @@ date_default_timezone_set("Asia/Jakarta");
 |
 */
 //$config['base_url'] = 'http://absensi.labuhanbatuselatankab.go.id/';
-$config['base_url'] = 'http://localhost/absentest/';
+$config['base_url'] = 'http://localhost/absenteam/';
 /*
 |--------------------------------------------------------------------------
 | Index File
