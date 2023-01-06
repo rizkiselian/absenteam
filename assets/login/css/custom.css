@@ -1,0 +1,189 @@
+/* your styles go here */
+.text-center{
+	text-align:center;
+}
+
+.text-right{
+	text-align:right;
+}
+
+.content {
+    width: 100%;
+}
+
+span.green{
+	color:green;
+}
+
+span.red{
+	color:red;
+}
+
+.profile-user-img {
+    margin: 0 auto;
+    width: 100px;
+    padding: 3px;
+    border: 3px solid #d2d6de;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.profile-username {
+    font-size: 21px;
+    margin-top: 5px;
+}
+
+.text-muted {
+    color: #777;
+}
+
+.font-10 {
+    font-size: 10px;
+}
+
+.list-group {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+.list-group-unbordered>.list-group-item {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+fieldset {
+    border: 1px groove #F2F2F2 !important;
+    padding: 0.5em 1em 0.5em 1em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #F2F2F2;
+    box-shadow: 0px 0px 0px 0px #F2F2F2;
+}
+
+legend {
+    font-size: 0.8em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    margin-bottom: 0px;
+    width: auto;
+    padding: 0 10px;
+    border-bottom: none;
+}
+
+.post .user-block {
+    margin-bottom: 15px;
+}
+
+span.judul {
+    font-weight: bold;
+    display: block;
+    font-size: 15px;
+}
+
+span.deskripsi {
+    color: #999;
+    font-size: 13px;
+    display: block;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
+.post {
+    border-bottom: 1px solid #d2d6de;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    color: #666;
+}
+
+
+div.paging {
+	padding     : 3px;
+	margin      : 3px;
+	font-size   : 12px;
+	text-align	: left;
+	margin-bottom: 10px;
+}
+div.paging a {
+	padding             : 5px 10px 5px 10px;
+	margin-right        : 2px;
+	border              : 1px solid #FFF;
+	text-decoration     : none; 
+	color               : #FFFFFF;
+	background          : #2C2C2C;
+}
+div.paging a:hover {
+	border           : 1px solid #FFF;
+	color            : #FFFFFF;
+	background       : #FF8000;
+}
+div.paging span.current {
+	padding          : 5px 10px 5px 10px;
+	margin-right     : 2px;
+	border           : 1px solid #FFF;
+	font-weight      : bold;
+	color            : #FFFFFF;
+	background       : #FF8000;
+}
+div.paging span.disabled {
+	padding      : 2px 5px 2px 5px;
+	margin-right : 2px;
+	border       : 1px solid #CCCCCC;
+	color        : #CCCCCC;
+}
+div.paging span.prevnext {
+  font-weight : bold;
+}
+
+
+ul.breadcrumb{
+	float: right;
+    background: transparent;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    border-radius: 2px;
+}
+
+.btn-xs {
+    padding: 0.15rem 0.25rem;
+    font-size: 0.675rem;
+    line-height: 1.5;
+}
+
+#map {
+	height: 450px;
+}
+
+#map-canvas {
+    height: 450px;
+    margin: 0px;
+    padding: 0px
+}
+
+span.title{
+	display:block;
+	text-align:center;
+	font-size:3rem;
+	font-weight:bold;
+}
+
+span.subtitle{
+	display:block;
+	text-align:center;
+}
+
+.table thead th, .table tr td{
+	vertical-align:middle;
+}
